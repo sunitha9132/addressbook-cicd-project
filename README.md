@@ -4,7 +4,7 @@ this is test adasdasdsaadd
 this is our first change and change and eit test asdasdsdasdasgfdssssafs
 this is our new chnage this sdassaasasdasdasasd
 testassdad
-this is my first upate hi this is my first updatee
+this is my first upate hi this is my first update
 hello 
 hi
 this is my final repo adsadad
